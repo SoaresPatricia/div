@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+.vermelho{
+    background-color: red;
+}
+
+.vermelho01{
+    background-color: red;
+}
+.vermelho01:hover{
+    background-color: blueviolet;
+}
+.azul{
+    background-color:blue;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarela{
+    background-color: yellow;
+}
